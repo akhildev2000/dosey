@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54802271372",
+    "project_id": "dosawala-4dd6c",
+    "storage_bucket": "dosawala-4dd6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54802271372:android:4db7047e1c11e33192bfa9",
+        "android_client_info": {
+          "package_name": "com.example.dosa_wala"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0B70U9viAeT_j1N68rpvUL20RUkK6nU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
