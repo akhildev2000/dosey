@@ -66,7 +66,7 @@ class HomePage extends StatelessWidget {
 
                   ///width: 300.w,
                   child: homehelper.todaysSpecial(
-                      context: context, collection: 'todaysSpecial')),
+                      context: context, collection: 'Idli')),
             ],
           ),
         ),

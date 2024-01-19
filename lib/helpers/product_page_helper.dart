@@ -135,7 +135,7 @@ class ProductPageHelper extends ChangeNotifier {
                     },
                     child: Padding(
                       padding:
-                          EdgeInsets.only(left: 10.r, right: 10.r, top: 20.r),
+                          EdgeInsets.only(left: 10.r, right: 10.r, top: 5.r),
                       child: Container(
                         decoration: BoxDecoration(
                           color: Colors.white,

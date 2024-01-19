@@ -1,4 +1,5 @@
 import 'package:dosa_wala/firebase_options.dart';
+import 'package:dosa_wala/helpers/cart_helper.dart';
 import 'package:dosa_wala/helpers/details_helper.dart';
 import 'package:dosa_wala/helpers/home_page_helper.dart';
 import 'package:dosa_wala/helpers/product_page_helper.dart';
@@ -37,6 +38,7 @@ class MyApp extends StatelessWidget {
               ChangeNotifierProvider.value(value: ManageData()),
               ChangeNotifierProvider.value(value: ProductPageHelper()),
               ChangeNotifierProvider.value(value: DetailsHelper()),
+              ChangeNotifierProvider.value(value: CartHelper()),
             ],
             child: MaterialApp(
               debugShowCheckedModeBanner: false,
